@@ -1,0 +1,23 @@
+.fundoroxo{
+    background: #3f025c;  
+
+}
+#film{
+    margin-top: 70px;
+   
+}
+#menu{
+    margin-top: 70px;
+    background:  #3f025c;  
+    text-decoration: none;
+}
+#formulario{
+    background: #3f025c;  
+    margin-top: 100px;
+    height:500px
+}
+#id{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+    color: blanchedalmond;
+}
