@@ -1,6 +1,9 @@
 .fundoroxo{
-    background: #3f025c;  
-
+    /* background: #3f025c; */
+    /* background: -webkit-gradient(linear, left top, right top, from(#CCCCCC), to(#000000)) no-repeat;
+    background: -moz-linear-gradient(left, #CCCCCC, #000000);
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr='#CCCCCC', EndColorStr='#000000'); */
+    background-image: linear-gradient(to right,#9B52ED, #5448BD, #8848BD, #BD48B1);
 }
 #film{
     margin-top: 70px;
