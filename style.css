@@ -11,11 +11,11 @@
 }
 #menu{
     margin-top: 70px;
-    background:  #3f025c;  
+    background:  #FFFFFF;
+    opacity: 0.75; 
     text-decoration: none;
 }
 #formulario{
-    background: #3f025c;  
     margin-top: 100px;
     height:500px
 }
